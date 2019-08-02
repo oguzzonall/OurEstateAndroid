@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_anasayfa"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="ANASAYFA" />
+        <item
+            android:id="@+id/nav_hakkinda"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="HAKKINDA"
+            android:visible="true" />
+        <item
+            android:id="@+id/nav_iletisim"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="İLETİŞİM" />
+    </group>
+
+    <item android:title="Emlak">
+        <menu>
+            <item
+                android:id="@+id/nav_evbul"
+                android:icon="@drawable/ic_menu_share"
+                android:title="EV BUL" />
+            <item
+                android:id="@+id/nav_ilanver"
+                android:icon="@drawable/ic_menu_send"
+                android:title="İLAN VER"
+                android:visible="false" />
+        </menu>
+    </item>
+
+    <item android:title="Diğer">
+        <menu>
+            <item
+                android:id="@+id/nav_mesajlarim"
+                android:icon="@drawable/ic_menu_camera"
+                android:title="MESAJLARIM"
+                android:visible="false" />
+            <item
+                android:id="@+id/nav_giris"
+                android:icon="@drawable/ic_menu_share"
+                android:title="GİRİŞ YAP" />
+            <item
+                android:id="@+id/nav_kayit"
+                android:icon="@drawable/ic_menu_send"
+                android:title="KAYIT OL" />
+            <item
+                android:id="@+id/nav_cikisYap"
+                android:icon="@drawable/ic_menu_send"
+                android:title="ÇIKIŞ YAP"
+                android:visible="false" />
+        </menu>
+    </item>
+
+</menu>

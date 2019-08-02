@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Emlak App</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Emlak App</string>
+    <string name="nav_header_subtitle">oguz.onal.50@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hakkimda">E-Emlak Hakkında
+Türkiye’nin en çok ilana sahip emlak sitesi E-Emlak, 2006 yılında emlak arayanları; ihtiyaçlarına en uygun ve temiz ilanlara, hızlı ve kolay bir şekilde buluşturmak amacıyla yola çıktı. Yeni bir eve taşımanın verdiği mutluluk ve heyecanını emlak arama sürecinde de devam ettirebilmeniz için bugün 1 milyona varan temiz ilanla, ev arama sürecinde her zaman yanınızdayız!
+
+170 kişiden oluşan profesyonel, dinamik, çalışkan kadromuzla; hem ev arayanlara hem de ilan verenlere harcadıkları zamanın karşılığını en iyi şekilde verebilmek için gece gündüz çalışıyoruz. Aylık 20 milyon oturum, 7 milyon tekil kullanıcı sayısı ile Türkiye’nin lider emlak sitesi olmanın gururunu yaşıyoruz.
+
+Emlak arayan ve ilan verenleri güvenilir teknik altyapımız ve uzman kadromuzun da desteği ile tek bir çatı altında buluşturuyor, hayatınızın en önemli kararlarından biri olan emlak yatırımı sürecinde gelişmiş ürünlerimizle yol arkadaşlığı ediyoruz.
+
+Hedeflerimize ulaşma yolunda değişimlerin bize hız ve dinamizm kazandıracağına inandık ve Mart 2018’de marka yüzümüzü yeniledik. Artık her zamankinden daha canlı, daha cesur, daha sosyal ve daha dinamiğiz ve her zamanki gibi sizlere daha iyi, kaliteli, adil hizmet vermek için buradayız.
+
+Emlak Sektörünün Nabzını Tutuyoruz
+Emlak kategorisindeki uzmanlığımızın yanı sıra, emlak sektörünün kalitesini artıracak ve verimliliği maksimum seviyeye çıkaracak yeniliklerin izini sürüyor, sektörde öncülük ediyoruz.
+
+Emlak arama sürecinden dekorasyon önerilerine, emlak fiyatlarındaki değişimlerden sektörel röportajlara kadar pek çok konuda içeriğe ulaşabileceğiniz Emlak Yaşam sayfalarımıza da göz atın.
+Her ay düzenli olarak il, ilçe, mahalle kırılımında kiralık ve satılık fiyatlarının analizlerine ulaşabileceniz Emlak Endeksi sayfalarımıza ziyaret edin.
+Her yıl emlak sektörünün en iyilerini ödüllendirdiğimiz Emlağın Enleri Ödül Töreni ile sektörün en prestijli ödül törenini düzenliyoruz.</string>
+    <string-array name="Sehirler">
+        <item>İstanbul</item>
+        <item>Sakarya</item>
+    </string-array>
+    <string-array name="Sakarya_Ilceler">
+        <item>Akyazı</item>
+        <item>Adapazarı</item>
+        <item>Serdivan</item>
+        <item>Erenler</item>
+        <item>Hendek</item>
+        <item>Karasu</item>
+        <item>Arifiye</item>
+        <item>Sapanca</item>
+        <item>Geyve</item>
+        <item>Taraklı</item>
+    </string-array>
+    <string-array name="Istanbul_Ilceler">
+        <item>Fatih</item>
+        <item>Pendik</item>
+        <item>Bağcılar</item>
+        <item>Ümraniye</item>
+        <item>Üsküdar</item>
+        <item>Kadıköy</item>
+        <item>Maltepe</item>
+        <item>Kartal</item>
+        <item>Esenler</item>
+        <item>Sultangazi</item>
+        <item>Ataşehir</item>
+        <item>Sultanbeyli</item>
+        <item>Güngören</item>
+        <item>Tuzla</item>
+    </string-array>
+    <string-array name="EmlakTipleri">
+        <item>Daire</item>
+        <item>Studio</item>
+        <item>Dublex</item>
+        <item>Triplex</item>
+        <item>Villa</item>
+        <item>Apart</item>
+        <item>Yazlık</item>
+        <item>Dağ Evi</item>
+        <item>Çiftlik</item>
+        <item>Prepabrik</item>
+    </string-array>
+    <string-array name="EsyaliMiArray">
+        <item>Evet</item>
+        <item>Hayır</item>
+    </string-array>
+</resources>

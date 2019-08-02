@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#b578b2</color>
+    <color name="colorPrimaryDark">#46c3e6</color>
+    <color name="colorAccent">#88c240</color>
+    <color name="logokirmizi">#e65d25</color>
+    <color name="logoturuncu">#fbb217</color>
+    <color name="logomavi">#46c3e6</color>
+    <color name="logoyesil">#88c240</color>
+    <color name="logomor">#b578b2</color>
+    <color name="beyaz">#FFFFFF</color>
+    <color name="mor">#8a3ab9</color>
+    <color name="background">#ECF0F1</color>
+</resources>
